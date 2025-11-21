@@ -2,12 +2,9 @@ body{
     padding: 0;
     margin: 0;
 }
-
-div{
-      column-count: 3;         /* antal kolonner */
-      column-gap: 20px;        /* afstand mellem kolonner */
-      text-align: justify;     /* lige linjer i begge sider */
-  }
+.Overtekst{
+    text-align: center;
+}
 
 
 .pride-header {
